@@ -1,5 +1,5 @@
 # koedds
-A national Real Estate investment report and visualization analyzing Redfin data with Spark
+A national real estate investment report and visualization analyzing Redfin data with Spark. The goal of this project was to combine historical ROI data with a scoring model the CDC uses to assess county vulnerability to ultimately guide decision making around ideal locations for investment.
 
 ## Data
 This analysis pulls data from several different sources.
