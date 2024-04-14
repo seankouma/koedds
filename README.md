@@ -7,6 +7,9 @@ This analysis pulls data from several different sources.
  - Social Vulnerability Index data from the CDC which combines ~17 different factors (primarily socioeconomic) to assess counties a risk score in the event of a economic or physical crisis.
  - Data from Fysallida, a previous CSU CS 455 project which assigned crash and resiliency scores for counties across the US. While we didn't use this data in our predictions or for our decision making, it contains helpful information and was useful in helping us put our results inside something that can be visualized using the Monocle service on Urban-Sustain.
 
+## Visualization
+Upload the augmented_data.json file to the [Urban-Sustain Monocle service](https://urban-sustain.org/services/monocle/).
+
 ## Files
 Inside the Spark folder you will find the code we ran on our Spark cluster to parse the Redfin data (stored on HDFS) into something to actually provide us return on investment scores based off of growth performance from the past 12 years.
 
